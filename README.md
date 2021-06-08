@@ -40,6 +40,15 @@
 
 ![image](https://user-images.githubusercontent.com/30154971/121264599-c40c0c80-c88d-11eb-88dc-2555981888c7.png)
 
+### Configure o código
+
+![image](https://user-images.githubusercontent.com/30154971/121265240-e2263c80-c88e-11eb-920d-c8afbaf8549e.png)
+
+### Configure o time
+
+![image](https://user-images.githubusercontent.com/30154971/121265385-1a2d7f80-c88f-11eb-8e3a-65da81ee4f01.png)
+
+
 ### Com a funtion já criada, configura a trigger
 
 ![image](https://user-images.githubusercontent.com/30154971/121263304-cc634800-c88b-11eb-9504-04ed8604b8b3.png)
