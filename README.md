@@ -1,4 +1,4 @@
-# objects_public AWS Lambda based on S3 events
+# Objects_public AWS Lambda based on S3 events
 
 ### Criar uma role com as devidas permissões
 ![image](https://user-images.githubusercontent.com/30154971/121263948-c6219b80-c88c-11eb-8c54-db5734cb662b.png)
