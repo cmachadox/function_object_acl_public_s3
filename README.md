@@ -35,7 +35,7 @@
 
 
 
-### Criar a funtion lambda, passando o nome + runtime + role qual foi criada 
+### Criar a function lambda, passando o nome + runtime + role qual foi criada 
 
 
 ![image](https://user-images.githubusercontent.com/30154971/121264599-c40c0c80-c88d-11eb-88dc-2555981888c7.png)
