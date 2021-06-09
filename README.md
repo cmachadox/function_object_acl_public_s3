@@ -5,8 +5,7 @@ Função responsável por tornar qualquer objeto publico (read) qual for feito u
 **Simplesmente copie e cole o código do arquivo lambda_function.py no console do AWS Lambda e defina também todos os parâmetros necessários para o funcionamento correto dessa função (como timeout, roles, etc)**
 
 #### Requerimentos functions
-+ **Runtime:** Python 3.6
-+ 
++ **Runtime:** Python 3.8
 + **Timeout:** 1m
 
 ### Criar uma role com as devidas permissões
