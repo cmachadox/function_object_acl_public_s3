@@ -11,7 +11,7 @@ def lambda_handler(event, context):
 
    source_object = {'Bucket':bucket , 'Key': key}
 
-   object_acl = s3.Object(bucket_name='bucket-name', key=key)
+   object_acl = s3.Object(bucket_name='seu-bucket-name', key=key)
 
    response = object_acl.Acl().put(ACL='public-read')
 
