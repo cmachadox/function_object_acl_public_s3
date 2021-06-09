@@ -1,5 +1,14 @@
 # Objects_public AWS Lambda based on S3 events
 
+Função responsável por tornar qualquer objeto publico (read) qual for feito upload para o bucket s3
+
+**Simplesmente copie e cole o código do arquivo lambda_function.py no console do AWS Lambda e defina também todos os parâmetros necessários para o funcionamento correto dessa função (como timeout, roles, etc)**
+
+#### Requerimentos functions
++ **Runtime:** Python 3.6
++ 
++ **Timeout:** 1m
+
 ### Criar uma role com as devidas permissões
 ![image](https://user-images.githubusercontent.com/30154971/121263948-c6219b80-c88c-11eb-8c54-db5734cb662b.png)
 
